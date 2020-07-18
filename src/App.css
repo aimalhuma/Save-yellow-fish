@@ -5,4 +5,36 @@
   background-size: cover;
 }
 
-
+.fish1{
+  position: absolute;
+  left: 90%;
+  top: 80%;
+}
+.frightfish{
+  position: absolute;
+  right: 50%;
+  top: 50%;
+}
+.shark{
+  position: relative;
+  left: 100%;
+  top: 40%;
+  width: 40%;
+  height: 50%;
+  
+}
+.reef{
+  position: relative;
+ 
+  top: 10%;
+  width: 80%;
+  height: 50%;
+}
+.reef2{
+  position: absolute;
+  left: 70%;
+  top: 40%;
+  width: 30%;
+  height: 90%;
+  
+}
