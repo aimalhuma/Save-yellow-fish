@@ -12,7 +12,7 @@
 }
 .frightfish{
   position: absolute;
-  right: 50%;
+  right: 70%;
   top: 50%;
 }
 .shark{
@@ -37,4 +37,33 @@
   width: 30%;
   height: 90%;
   
+}
+.yellowfish{
+  position: absolute;
+  left: 60%;
+  top: 50%;
+  width: 40%;
+  height: 90%;
+  
+}
+.diverfish{
+  position: absolute;
+  right: 10%;
+  top: 60%;
+  width: 70%;
+  height: 90%;
+}
+.bublefish{
+  position: absolute;
+  right: 10%;
+  top: 30%;
+  width: 70%;
+  height: 90%;
+}
+.grpp2{
+  position: absolute;
+  right: 60%;
+  top:5%;
+  width: 30%;
+  height: 60%;
 }
